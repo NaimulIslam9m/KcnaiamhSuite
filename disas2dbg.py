@@ -1,6 +1,15 @@
-#!/bin/bash/python3
-# disassembler ↔️ debugger
-# address converter
+#!/usr/bin/env python3
+
+__description__ = 'disassembler and debugger address converter'
+__author__ = 'Naimul Islam'
+__version__ = '0.0.1'
+__date__ = '02/08/2023'
+
+"""
+History:
+
+Todo:
+"""
 
 def add0x(tmp):
     if tmp[:2] != "0x":
