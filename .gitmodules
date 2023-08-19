@@ -1,0 +1,4 @@
+[submodule "disas2dbg"]
+	path = disas2dbg
+	url = https://github.com/NaimulIslam9m/disas2dbg
+	branch = main
